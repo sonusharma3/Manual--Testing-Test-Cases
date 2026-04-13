@@ -1,0 +1,27 @@
+Project Name: E-commerce Website Testing
+
+Objective:
+To test login, signup, and cart functionality
+
+Scope:
+
+- Login
+- Signup
+- Add to cart
+
+Testing Type:
+Manual Testing
+
+Tools Used:
+
+- MS Excel
+- Browser
+
+Entry Criteria:
+Website should be available
+
+Exit Criteria:
+All test cases executed
+
+Start Date:03/01/26
+End Date:10/02/26
