@@ -1,0 +1,56 @@
+Test Case ID: TC_LOGIN_01
+Title: Verify login with valid credentials
+
+Steps:
+
+1. Open Flipkart login page in Chrome browser
+2. Enter valid username
+3. Enter valid password
+4. Click login button
+
+Expected Result:
+User should be redirected to home page after login
+
+Actual Result:
+User should be redirected to home page after login
+
+Status: Pass
+
+---
+
+Test Case ID: TC_LOGIN_02
+Title: Verify login with invalid password
+
+Steps:
+
+1. Open login page
+2. Enter valid username
+3. Enter wrong password
+4. Click login
+
+Expected Result:
+Error message should be displayed
+
+Actual Result:
+Error message displayed
+
+Status: Pass
+
+---
+
+Test Case ID: TC_LOGIN_03
+Title: Verify login with empty fields
+
+Steps:
+
+1. Open login page
+2. Leave username and password empty
+3. Click login
+
+Expected Result:
+Validation message should appear
+
+Actual Result:
+Validation message displayed
+
+Status: Pass
