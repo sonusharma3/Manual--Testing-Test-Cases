@@ -1,0 +1,38 @@
+Bug ID: BUG_LOGIN_01
+Title: Login button not working
+
+Steps to Reproduce:
+
+1. Open website
+2. Enter username and password
+3. Click login button
+
+Expected Result:
+User should login
+
+Actual Result:
+Nothing happens
+
+Severity: High
+Priority: High
+Status: Open
+
+---
+
+Bug ID: BUG_LOGIN_02
+Title: Error message not displayed for wrong password
+
+Steps:
+
+1. Enter wrong password
+2. Click login
+
+Expected Result:
+Error message should display
+
+Actual Result:
+No message shown
+
+Severity: Medium
+Priority: Medium
+Status: Open
