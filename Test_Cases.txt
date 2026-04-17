@@ -1,5 +1,5 @@
 Test Case ID: TC_LOGIN_01
-Title: Verify login with valid credentials
+Title:“Verify login functionality with valid credentials”
 
 Steps:
 
