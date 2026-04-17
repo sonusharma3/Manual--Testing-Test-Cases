@@ -1,18 +1,18 @@
+
 Hi, I am Sonu Sharma
 
-I am a fresher Manual Tester looking for job opportunities.
+I am a fresher Manual Tester with knowledge of SDLC and STLC.
 
-Skills:
+This repository contains my manual testing practice project on an E-commerce website.
 
-- Manual Testing
+Work included:
 - Test Case Writing
 - Bug Reporting
-- SDLC & STLC
+- Test Planning
+- Functional Testing
 
 Tools:
-
 - MS Excel
-- Google Sheets
+- Browser
 
-Goal:
-To start my career in Software Testing and grow as a QA Engineer
+Goal: To start my career in Software Testing and grow as a QA Engineer.
