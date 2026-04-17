@@ -11,7 +11,7 @@ Expected Result:
 User should login
 
 Actual Result:
-Nothing happens
+“User is not able to login after clicking login button”
 
 Severity: High
 Priority: High
