@@ -1,4 +1,5 @@
 Project Name: E-commerce Website Testing
+Tester Name: Sonu Sharma
 
 Objective:
 To test login, signup, and cart functionality
